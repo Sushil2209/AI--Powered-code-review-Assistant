@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+An AI-powered web application that automatically reviews, explains, and improves your code using advanced language models.
+It detects syntax errors, performance issues, code smells, and security risks, then provides detailed suggestions and optimized code — like having your own personal senior developer assistant.
 
-# Run and deploy your AI Studio app
+🚀 Features:
 
-This contains everything you need to run your app locally.
+🧩 Multi-language support: Python, JavaScript, C++, Java, and more
 
-View your app in AI Studio: https://ai.studio/apps/drive/13Dji4YY0cGhDoPtYx0RHmbtvqOkrwckF
+⚙️ AI-based code review: Detects syntax errors, inefficiencies, and security flaws
 
-## Run Locally
+💡 Code optimization suggestions: AI rewrites and improves your code
 
-**Prerequisites:**  Node.js
+🧠 Explain mode: Explains complex logic in plain English
 
+📊 Code quality score: Generates reports and feedback with a 0–100 quality rating
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🪄 Auto-comment generator: Adds meaningful comments to your code
+
+🔐 Security analyzer: Detects vulnerabilities like SQL injection or unsafe operations
+
+🗂️ Code history: Save and compare multiple code versions
+
+🎨 Custom themes: VS Code Dark, Monokai, Dracula, and Light modes
+
+🔈 Voice commands: Control app actions hands-free
+
+☁️ Optional GitHub integration: Fetch and review code directly from repositories
